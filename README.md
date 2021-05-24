@@ -1,3 +1,7 @@
+# Try Covid-19-Tracker app by yourself
+[Open](https://covid-19-tracker-85acf.web.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
